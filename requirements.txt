@@ -35,7 +35,7 @@ kiwisolver==1.4.8
 MarkupSafe==3.0.2
 matplotlib==3.10.1
 # 데이터베이스 연결을 위한 패키지들
-mysql-connector-python==8.0.33
+mysql-connector-python>=9.0.0
 psycopg2-binary==2.9.7
 sqlalchemy==2.0.21
 narwhals==1.36.0
